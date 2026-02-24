@@ -1665,19 +1665,24 @@
 
 
 
-
 	// sellcarfast filter Tabs
 	const tabs = document.querySelectorAll("#auctionTabs .tab");
+	var $initialTab = $('#auctionTabs .tab').first();
+	var initialValue = $initialTab.data('type');
+	$('#vehicleTabInput').val(initialValue);
 
 	tabs.forEach(tab => {
 		tab.addEventListener("click", function () {
 
-			console.log("Clicked:", this.dataset.type);
+			var tabValue = $(this).data('type');
+			$('#vehicleTabInput').val(tabValue);
 
 			tabs.forEach(t => t.classList.remove("active"));
 			this.classList.add("active");
 		});
 	});
+
+
 
 	// Search
 	const searchBtn = document.getElementById("searchBtn");
@@ -1701,6 +1706,7 @@
 			});
 		});
 	}
+
 
 
 
