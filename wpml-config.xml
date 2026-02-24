@@ -1,0 +1,154 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1">e-landing-page</custom-type>
+    <custom-type translate="1">elementor_library</custom-type>
+    <custom-type translate="1">product</custom-type>
+    <custom-type translate="1">product_variation</custom-type>
+    <custom-type translate="1">shop_order</custom-type>
+    <custom-type translate="1">shop_order_refund</custom-type>
+    <custom-type translate="1">shop_coupon</custom-type>
+    <custom-type translate="1">shop_order_placehold</custom-type>
+    <custom-type translate="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1">vehicle</custom-type>
+    <custom-type translate="1">mc4wp-form</custom-type>
+    <custom-type translate="1">patterns_ai_data</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1">product_type</taxonomy>
+    <taxonomy translate="1">product_visibility</taxonomy>
+    <taxonomy translate="1">product_cat</taxonomy>
+    <taxonomy translate="1">product_tag</taxonomy>
+    <taxonomy translate="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1">pa_color</taxonomy>
+    <taxonomy translate="1">pa_size</taxonomy>
+    <taxonomy translate="1">translation_priority</taxonomy>
+    <taxonomy translate="1">vehicle-category</taxonomy>
+    <taxonomy translate="1">vehicle-brand</taxonomy>
+    <taxonomy translate="1">vehicle-model</taxonomy>
+    <taxonomy translate="1">location</taxonomy>
+    <taxonomy translate="1">body-type</taxonomy>
+    <taxonomy translate="1">colors</taxonomy>
+    <taxonomy translate="1">vehicle-year</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="copy">egns_page_options</custom-field>
+    <custom-field action="copy">egns_video_url</custom-field>
+    <custom-field action="copy">egns_gallery_images</custom-field>
+    <custom-field action="copy">egns_thumb_images</custom-field>
+    <custom-field action="copy">egns_quote_text</custom-field>
+    <custom-field action="copy">egns_product_meta_id</custom-field>
+    <custom-field action="copy">egns_vehicle_meta_id</custom-field>
+    <custom-field action="copy">vehicle_actual_price</custom-field>
+    <custom-field action="copy">vehicle_milage_info_value</custom-field>
+  </custom-fields>
+  <admin-texts>
+    <key name="egns_theme_options">
+      <key name="preloader_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_logo">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_logo_mobile">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_sell_label"/>
+      <key name="header_wishlist_label"/>
+      <key name="header_signIn_label"/>
+      <key name="header_cart_label"/>
+      <key name="header_one_contact_type"/>
+      <key name="header_one_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_one_contact_head_label"/>
+      <key name="header_two_contact_type"/>
+      <key name="header_two_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_two_contact_head_label"/>
+      <key name="header_two_sidebar_contact_type"/>
+      <key name="header_two_sidebar_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_two_sidebar_contact_head_label"/>
+      <key name="header_two_cart_label"/>
+      <key name="header_two_wishlist_label"/>
+      <key name="header_two_signIn_label"/>
+      <key name="header_three_wishlist_label"/>
+      <key name="header_three_sell_label"/>
+      <key name="header_three_signIn_label"/>
+      <key name="header_three_contact_type"/>
+      <key name="header_three_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_three_contact_head_label"/>
+      <key name="header_four_contact_type"/>
+      <key name="header_four_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_four_contact_head_label"/>
+      <key name="header_four_sidebar_contact_type"/>
+      <key name="header_four_sidebar_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_five_wishlist_label"/>
+      <key name="header_five_sell_label"/>
+      <key name="header_five_contact_type"/>
+      <key name="header_five_contact_icon">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="header_five_contact_head_label"/>
+      <key name="header_five_signIn_label"/>
+      <key name="header_five_cart_label"/>
+      <key name="breadcrumb_bg_image">
+        <key name="alt"/>
+        <key name="title"/>
+      </key>
+      <key name="breadcrumb_notify_label"/>
+      <key name="breadcrumb_notify_form_header"/>
+      <key name="breadcrumb_notify_form_short_desc"/>
+      <key name="vehicle_contact_form_heading"/>
+      <key name="vehicle_contact_form_subheading"/>
+      <key name="vehicle_related_sub_title"/>
+      <key name="vehicle_related_title"/>
+      <key name="404_title"/>
+      <key name="404_content"/>
+      <key name="404_button_text"/>
+      <key name="footer_bottom_social_head"/>
+    </key>
+    <key name="widget_custom_footer_widget">
+      <key name="1">
+        <key name="num_head"/>
+        <key name="mail_head"/>
+        <key name="title"/>
+      </key>
+    </key>
+    <key name="widget_egns_product_cat">
+      <key name="1">
+        <key name="title"/>
+      </key>
+    </key>
+    <key name="widget_egns_recent_post">
+      <key name="1">
+        <key name="title"/>
+      </key>
+    </key>
+    <key name="widget_egns_recent_product">
+      <key name="1">
+        <key name="title"/>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>

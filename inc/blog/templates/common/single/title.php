@@ -1,0 +1,1 @@
+<h3 class="post-title"><span><?php the_title() ?></span></h3>

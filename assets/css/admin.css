@@ -1,0 +1,11 @@
+.csf-field-image_select .csf--image {
+    box-shadow: 0 0 1px #000;
+}
+
+.elementor-editor-active header.style-4 {
+    position: static;
+}
+
+tr.type-auction-bidding td div.row-actions span.view {
+    display: none;
+}

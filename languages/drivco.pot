@@ -1,0 +1,1286 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-08 19:04+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:58
+msgid "Opps, Page Not Found"
+msgstr ""
+
+#: 404.php:59
+msgid ""
+"Something went wrong, web page that is displayed to the user when the server "
+"cannot find the requested page"
+msgstr ""
+
+#: 404.php:61
+msgid "error-img"
+msgstr ""
+
+#: 404.php:64
+msgid "Back To Home"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search your products"
+msgstr ""
+
+#: helpers/ajax_actions.php:137 helpers/ajax_actions.php:149
+#: helpers/ajax_actions.php:200
+msgid "Something went wrong!!"
+msgstr ""
+
+#: helpers/ajax_actions.php:155
+msgid "Registration successful! You are now logged in."
+msgstr ""
+
+#: helpers/ajax_actions.php:209
+msgid "Login failed. Please check your credentials."
+msgstr ""
+
+#: helpers/ajax_actions.php:212
+msgid "Login successful. Redirecting..."
+msgstr ""
+
+#: helpers/ajax_actions.php:244
+msgid "Installment Details"
+msgstr ""
+
+#: helpers/ajax_actions.php:252 inc/vehicle/content/loan.php:11
+msgid "Loan Payments:"
+msgstr ""
+
+#: helpers/ajax_actions.php:253 inc/vehicle/content/loan.php:12
+msgid "Monthly Payment:"
+msgstr ""
+
+#: helpers/ajax_actions.php:254 inc/vehicle/content/loan.php:13
+msgid "Total Interest:"
+msgstr ""
+
+#: helpers/ajax_actions.php:259 inc/vehicle/content/loan.php:18
+msgid "Month"
+msgstr ""
+
+#: helpers/ajax_actions.php:260 inc/vehicle/content/loan.php:19
+msgid "Balance"
+msgstr ""
+
+#: helpers/ajax_actions.php:261 inc/vehicle/content/loan.php:20
+msgid "Principal"
+msgstr ""
+
+#: helpers/ajax_actions.php:262 inc/vehicle/content/loan.php:21
+msgid "Interest"
+msgstr ""
+
+#: helpers/ajax_actions.php:263 inc/vehicle/content/loan.php:22
+msgid "Payment"
+msgstr ""
+
+#: helpers/auction-bidding.php:8
+msgid "Customer Username"
+msgstr ""
+
+#: helpers/auction-bidding.php:9
+msgid "Bidding Price"
+msgstr ""
+
+#: helpers/auction-bidding.php:10 woocommerce/single-product-reviews.php:99
+msgid "Email"
+msgstr ""
+
+#: helpers/breadcrumb.php:115
+msgid "Search"
+msgstr ""
+
+#: helpers/breadcrumb.php:120
+msgid "404"
+msgstr ""
+
+#: helpers/breadcrumb.php:223 helpers/helper.php:462 helpers/helper.php:473
+#: helpers/helper.php:669 helpers/helper.php:953 helpers/helper.php:954
+#: helpers/helper.php:956 helpers/woo-hooks-mutated.php:141
+#: helpers/woo-hooks-mutated.php:142 inc/blog/helper.php:219
+#: inc/blog/templates/common/single/meta.php:7
+#: inc/breadcrumb/templates/breadcrumb-archive.php:42
+#: inc/breadcrumb/templates/breadcrumb-archive.php:45
+#: inc/breadcrumb/templates/breadcrumb-archive.php:47
+#: inc/project/content/single-project.php:63
+#: inc/project/content/single-project.php:64
+#: inc/project/content/single-project.php:65
+#: inc/project/content/single-project.php:103
+#: inc/project/content/single-project.php:104
+#: inc/sidebar/templates/vehicle-sidebar.php:47
+#: inc/sidebar/templates/vehicle-sidebar.php:49
+#: inc/sidebar/templates/vehicle-sidebar.php:50
+#: inc/sidebar/templates/vehicle-sidebar.php:71
+#: inc/sidebar/templates/vehicle-sidebar.php:73
+#: inc/sidebar/templates/vehicle-sidebar.php:74
+#: inc/sidebar/templates/vehicle-sidebar.php:95
+#: inc/sidebar/templates/vehicle-sidebar.php:97
+#: inc/sidebar/templates/vehicle-sidebar.php:98
+#: inc/sidebar/templates/vehicle-sidebar.php:143
+#: inc/sidebar/templates/vehicle-sidebar.php:145
+#: inc/sidebar/templates/vehicle-sidebar.php:146
+#: inc/sidebar/templates/vehicle-sidebar.php:167
+#: inc/sidebar/templates/vehicle-sidebar.php:169
+#: inc/sidebar/templates/vehicle-sidebar.php:170
+#: inc/vehicle/content/single-vehicle.php:345
+#: inc/vehicle/content/single-vehicle.php:371
+#: inc/vehicle/content/single-vehicle.php:397
+#: inc/vehicle/content/single-vehicle.php:468
+#: inc/vehicle/content/single-vehicle.php:561
+#: inc/vehicle/content/single-vehicle.php:565
+#: inc/vehicle/content/single-vehicle.php:755
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: helpers/comments.php:76
+msgid "Save my name, email in this browser for the next time I comment."
+msgstr ""
+
+#: helpers/helper.php:828 inc/blog/helper.php:77
+msgid "Pages: "
+msgstr ""
+
+#: helpers/theme_setup.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:56
+msgid "Header Two Second Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:57
+msgid "Topbar Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:58
+msgid "Footer Menu"
+msgstr ""
+
+#: helpers/theme_setup.php:162
+msgid "Blog Sidebar"
+msgstr ""
+
+#: helpers/theme_setup.php:164
+msgid "This sidebar will apply to your blog list and blog details page"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:148
+msgid "No content found"
+msgstr ""
+
+#: helpers/woo-hooks-mutated.php:212
+msgid "-"
+msgstr ""
+
+#: inc/blog/helper.php:104
+msgid "By "
+msgstr ""
+
+#: inc/blog/templates/common/content.php:11
+#: inc/blog/templates/common/grid/content.php:11
+#: inc/blog/templates/common/single/author.php:7
+msgid "Posted on - "
+msgstr ""
+
+#: inc/blog/templates/common/content.php:14
+#: inc/blog/templates/common/grid/info.php:3
+msgid "Read More"
+msgstr ""
+
+#: inc/blog/templates/common/meta.php:5
+#: inc/blog/templates/common/grid/meta.php:3
+msgid "Comments (0)"
+msgstr ""
+
+#: inc/blog/templates/common/meta.php:5
+#: inc/blog/templates/common/grid/meta.php:3
+msgid "Comment (1)"
+msgstr ""
+
+#: inc/blog/templates/common/meta.php:5
+#: inc/blog/templates/common/grid/meta.php:3
+#: inc/comments/templates/parts/comment-list.php:5
+msgid "Comments (%)"
+msgstr ""
+
+#: inc/blog/templates/common/single/info.php:4
+msgid "Tags:"
+msgstr ""
+
+#: inc/blog/templates/common/single/info.php:11
+msgid "Share:"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:7
+msgid "By,"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:33
+msgid " Views"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:44
+msgid "0 Comment"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:44
+msgid "1 Comment"
+msgstr ""
+
+#: inc/blog/templates/common/single/meta.php:44
+msgid "% Comments"
+msgstr ""
+
+#: inc/blog/templates/common/single/post-link.php:16
+msgid "Prev Post"
+msgstr ""
+
+#: inc/blog/templates/common/single/post-link.php:25
+msgid "Next Post"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:23
+#: inc/breadcrumb/templates/breadcrumb-page.php:22
+#: inc/breadcrumb/templates/breadcrumb-single.php:22
+msgid "Category : "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:26
+#: inc/breadcrumb/templates/breadcrumb-page.php:25
+#: inc/breadcrumb/templates/breadcrumb-single.php:25
+msgid "Tag : "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:29
+#: inc/breadcrumb/templates/breadcrumb-page.php:28
+#: inc/breadcrumb/templates/breadcrumb-single.php:28
+msgid "Author : "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-archive.php:32
+#: inc/breadcrumb/templates/breadcrumb-page.php:31
+#: inc/breadcrumb/templates/breadcrumb-single.php:31
+msgid "Date : "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-search.php:19
+#, php-format
+msgid "Looking for : %s"
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-vehicle-single.php:54
+msgid "Price : "
+msgstr ""
+
+#: inc/breadcrumb/templates/breadcrumb-vehicle-single.php:83
+#: inc/vehicle/content/single-vehicle.php:95
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:9
+msgid "Leave a comment:"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:12
+msgid "Enter your name"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:15
+msgid "Enter your email"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:18
+msgid "Your Message"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-form.php:20
+msgid "Post Comment"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:5
+msgid "Comment 0"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:5
+msgid "Comment 01"
+msgstr ""
+
+#: inc/comments/templates/parts/comment-list.php:23
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/common/templates/preloader.php:14
+msgid "preloader-logo"
+msgstr ""
+
+#: inc/content/templates/posts-not-found.php:4
+msgid "Sorry!, Nothing Found!"
+msgstr ""
+
+#: inc/content/templates/posts-not-found.php:5
+msgid ""
+"Nothing Match your search terms. Please try again with some different "
+"keywords."
+msgstr ""
+
+#: inc/footer/templates/footer.php:47
+msgid "© Copyright 2024"
+msgstr ""
+
+#: inc/footer/templates/footer.php:47
+msgid "DRIVCO"
+msgstr ""
+
+#: inc/footer/templates/footer.php:47
+msgid "| Design By"
+msgstr ""
+
+#: inc/footer/templates/footer.php:47
+msgid " Egens Lab"
+msgstr ""
+
+#: inc/header/templates/parts/header_five.php:6
+#: inc/header/templates/parts/header_one.php:6
+#: inc/header/templates/parts/header_three.php:13
+msgid "Sell Your Car"
+msgstr ""
+
+#: inc/header/templates/parts/header_five.php:74
+#: inc/header/templates/parts/header_five.php:180
+#: inc/header/templates/parts/header_four.php:81
+#: inc/header/templates/parts/header_four.php:196
+#: inc/header/templates/parts/header_one.php:176
+#: inc/header/templates/parts/header_one.php:225
+msgid "icon"
+msgstr ""
+
+#: inc/header/templates/parts/header_five.php:158
+#: inc/header/templates/parts/header_five.php:162
+#: inc/header/templates/parts/header_five.php:223
+#: inc/header/templates/parts/header_five.php:227
+#: inc/header/templates/parts/header_four.php:58
+#: inc/header/templates/parts/header_four.php:175
+#: inc/header/templates/parts/header_one.php:77
+#: inc/header/templates/parts/header_one.php:80
+#: inc/header/templates/parts/header_one.php:156
+#: inc/header/templates/parts/header_one.php:159
+#: inc/header/templates/parts/header_three.php:88
+#: inc/header/templates/parts/header_three.php:92
+#: inc/header/templates/parts/header_three.php:178
+#: inc/header/templates/parts/header_three.php:182
+#: inc/header/templates/parts/header_two.php:43
+#: inc/header/templates/parts/header_two.php:47
+#: inc/header/templates/parts/header_two.php:228
+#: inc/header/templates/parts/header_two.php:232
+#: inc/vehicle/modals/bidding_form.php:36
+#: inc/vehicle/modals/bidding_form.php:68
+msgid "My Account"
+msgstr ""
+
+#: inc/header/templates/parts/header_four.php:109
+#: inc/header/templates/parts/header_two.php:161
+msgid "MENU"
+msgstr ""
+
+#: inc/header/templates/parts/header_three.php:111
+#: inc/header/templates/parts/header_three.php:214
+#: inc/header/templates/parts/header_two.php:65
+#: inc/header/templates/parts/header_two.php:118
+#: inc/project/content/single-project.php:33
+#: inc/project/content/single-project.php:61
+#: inc/project/content/single-project.php:83
+msgid "review-logo"
+msgstr ""
+
+#: inc/header/templates/parts/header_three.php:142
+msgid "SEARCH"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:355
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:361
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:384
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:389
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:394
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:399
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:928
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2690
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3763
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:400
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3333
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:401
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3118
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:620
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:621
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1037
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1037
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:1226
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3114
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2122
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2423
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2426
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2443
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2446
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2449
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2467
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2471
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2473
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2479
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2481
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2483
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2540
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2544
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2548
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2552
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2638
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2646
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2654
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2666
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2690
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2705
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2706
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2707
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2711
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2712
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2764
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2769
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2775
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2847
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2882
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2888
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2891
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2923
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2925
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2966
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:2968
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3074
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3100
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3332
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3679
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3682
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3684
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3688
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3690
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3698
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3691
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3693
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3696
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3699
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/tgma/class-tgm-plugin-activation.php:3701
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/project/content/single-project.php:20
+#: inc/vehicle/content/archive-content.php:21
+#: inc/vehicle/content/vehicle-related-brand.php:72
+msgid "image"
+msgstr ""
+
+#: inc/project/content/single-project.php:28
+msgid "portfolio-image"
+msgstr ""
+
+#: inc/project/content/single-project.php:138
+msgid "Previous"
+msgstr ""
+
+#: inc/project/content/single-project.php:162
+msgid "Next"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:41
+msgid "Brand"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:65
+msgid "Vehicle Year"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:89
+msgid "Body Type"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:109 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:137
+msgid "Color"
+msgstr ""
+
+#: inc/sidebar/templates/vehicle-sidebar.php:161
+msgid "Location"
+msgstr ""
+
+#: inc/vehicle/content/archive-content-sidebar.php:60
+#: inc/vehicle/content/archive-content.php:58
+#: inc/vehicle/content/archive-content.php:62
+#: inc/vehicle/content/archive-content.php:66
+#: inc/vehicle/content/single-vehicle.php:786
+#: inc/vehicle/content/single-vehicle.php:790
+#: inc/vehicle/content/single-vehicle.php:794
+msgid "feature-img"
+msgstr ""
+
+#: inc/vehicle/content/archive-content-sidebar.php:64
+msgid "fuel-img"
+msgstr ""
+
+#: inc/vehicle/content/archive-content-sidebar.php:68
+msgid "electric-img"
+msgstr ""
+
+#: inc/vehicle/content/archive-content-sidebar.php:80
+#: inc/vehicle/content/archive-content.php:78
+#: inc/vehicle/content/brand-content.php:61
+#: inc/vehicle/content/vehicle-related-brand.php:134
+msgid "View Details"
+msgstr ""
+
+#: inc/vehicle/content/archive-top.php:8
+#, php-format
+msgid "Showing <strong> %d </strong> car available in stock"
+msgstr ""
+
+#: inc/vehicle/content/brand-content.php:22
+#: inc/vehicle/content/brand-content.php:41
+#: inc/vehicle/content/brand-content.php:45
+#: inc/vehicle/content/brand-content.php:49
+#: inc/vehicle/content/single-vehicle.php:263
+#: inc/vehicle/content/single-vehicle.php:275
+msgid "cart-img"
+msgstr ""
+
+#: inc/vehicle/content/brand-content.php:66
+msgid "brand"
+msgstr ""
+
+#: inc/vehicle/content/loan.php:3
+msgid "Vehicle Loan Repayments By Month"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:32
+#, php-format
+msgid "Your bidding has been successfull at %s%d"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:34
+#, php-format
+msgid "Bidding price should be gretter then %s%d"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:163
+#: inc/vehicle/content/single-vehicle.php:168
+msgid "Video Clip"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:196
+msgid "image-product"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:231
+msgid "Images "
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:287
+#: inc/vehicle/content/single-vehicle.php:299
+msgid "icon-img"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:322
+msgid "Description"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:442
+msgid "product-img"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:512
+msgid "Price:"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:521
+msgid "Interest Rate(%):"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:527
+msgid "Loan Term (months):"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:534
+msgid "Calculate"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:617
+msgid "Time Left:"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:636
+#: inc/vehicle/content/single-vehicle.php:645
+msgid "Auction ends:"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:639
+#, php-format
+msgid "TIMEZONE: %s"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:639
+msgid "UTC "
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:644
+msgid "Auction starts:"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:650
+msgid "Item condition"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:663
+msgid "Place Bids"
+msgstr ""
+
+#: inc/vehicle/content/single-vehicle.php:719
+msgid "Recent Vehicles"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:5
+#: inc/vehicle/modals/bidding_form.php:49
+msgid "Sign Up"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:6
+msgid "Already have an account?"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:6
+#: inc/vehicle/modals/bidding_form.php:48
+#: woocommerce/checkout/form-login.php:29
+msgid "Log In"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:13
+msgid "First Name:"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:14
+msgid "Enter your first name"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:17
+msgid "Last Name:"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:18
+msgid "Enter your last name"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:21
+msgid "Username:"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:22
+msgid "Enter your username"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:25
+#: inc/vehicle/modals/bidding_form.php:56
+msgid "Email:"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:26
+#: inc/vehicle/modals/bidding_form.php:57
+msgid "Enter your email address"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:29
+#: inc/vehicle/modals/bidding_form.php:60
+msgid "Password:"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:30
+msgid "Enter your password"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:32
+msgid "Register"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:36
+#: inc/vehicle/modals/bidding_form.php:68
+msgid "Go Dashboard"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:49
+msgid "Don’t have any account?"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:61
+msgid "Enter your email password"
+msgstr ""
+
+#: inc/vehicle/modals/bidding_form.php:63
+msgid "Login"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+#, php-format
+msgid "Review (%1$s) %2$s"
+msgid_plural "Review (%1$s) %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:40
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Add Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:132
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:133
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:140
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:147
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:73
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Thumbnail image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:34
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Remove item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:130
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144 woocommerce/cart/mini-cart.php:78
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166 woocommerce/checkout/form-coupon.php:33
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166 woocommerce/checkout/form-coupon.php:34
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166 woocommerce/checkout/form-coupon.php:38
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:168
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:122
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:27
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:63
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Have a coupon code?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:27
+msgid "Click here coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:30
+msgid "If you have a coupon code, please apply it below."
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:29
+msgid "Alraedy have an account? "
+msgstr ""
+
+#: woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:27
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/sale-flash.php:31
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:49
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:70
+msgid "No saved methods found."
+msgstr ""
+
+#: woocommerce/myaccount/payment-methods.php:77
+msgid "Add payment method"
+msgstr ""
