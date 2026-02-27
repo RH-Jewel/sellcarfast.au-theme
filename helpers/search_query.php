@@ -60,14 +60,14 @@ function egns_vechiles_filter($query)
         $max_miles                    = get_query_var('max_miles');
 
         // sellcarfast.au filter
-        $vehicle_tab      = get_query_var('vehicle_tab');
-        $vehicle_make     = get_query_var('vehicle_make');
-        // $vehicle_model    = get_query_var('vehicle_model');
-        $vehicle_year     = get_query_var('vehicle_year');
-        $vehicle_states    = get_query_var('vehicle_states');
+        $vehicle_tab  = get_query_var('vehicle_tab');
+        $vehicle_make = get_query_var('vehicle_make');
+        // $vehicle_model = get_query_var('vehicle_model');
+        $vehicle_year   = get_query_var('vehicle_year');
+        $vehicle_states = get_query_var('vehicle_states');
         // $vehicle_location = get_query_var('vehicle_location');
-        $custom_keyword   = get_query_var('custom_keyword');
-        $sale_type        = get_query_var('sale_type');
+        $custom_keyword = get_query_var('custom_keyword');
+        $sale_type      = get_query_var('sale_type');
 
         // Start meta query
         $meta_query_array = array('relation' => 'AND');

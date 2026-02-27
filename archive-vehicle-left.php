@@ -13,14 +13,14 @@
 get_header();
 
 // Include breadcrumb template
-Egns\Helper\Egns_Helper::egns_template_part('breadcrumb', 'templates/breadcrumb-archive');
+// Egns\Helper\Egns_Helper::egns_template_part('breadcrumb', 'templates/breadcrumb-archive');
 
 ?>
 <div class="sellcarfast-filter">
     <div class="container">
-        <h2 class="banner-heading">Cars & Light Commercial</h2>
+        <h2 class="banner-heading"><?php echo esc_html__('Cars & Light Commercial', 'drivco') ?></h2>
         <p class="banner-subheading">
-            Search the range of passenger vehicles at SellcarFast, or browse all <a class="upcomingEvents" href="#UpcomingEvents">Upcoming Auctions</a>
+            <?php echo esc_html__('Search the range of passenger vehicles at SellcarFast, or browse all', 'drivco') ?> <a class="upcomingEvents" href="/auction-vehicle-list"><?php echo esc_html__('View All Auctions', 'drivco') ?></a>
         </p>
         <?php echo do_shortcode('[sellcarfast]'); ?>
     </div>

@@ -28290,6 +28290,17 @@ div#loan-details table tr td {
   padding: 5px 10px;
 }
 
+.post-type-archive-vehicle .inner-page-banner .banner-content {
+  display: none;
+}
+
+.sellcarfast-filter {
+  padding: 60px 0 80px;
+  background-image: url(https://www.drivco-wp.egenslab.com/wp-content/plugins/drivco-core//inc/theme-options/images/breadcrumb/breadcrumb-bg.jpg), linear-gradient(#FAFAFA, #FAFAFA);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 /* Wrapper */
 .search-wrapper {
   width: 100%;

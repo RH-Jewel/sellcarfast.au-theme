@@ -15,11 +15,20 @@
 get_header();
 
 if (!is_front_page()) :
-    // Include breadcrumb template
-    Egns\Helper\Egns_Helper::egns_template_part('breadcrumb', 'templates/breadcrumb-page');
+// Include breadcrumb template
+// Egns\Helper\Egns_Helper::egns_template_part('breadcrumb', 'templates/breadcrumb-page');
 endif;
 
 ?>
+<div class="sellcarfast-filter">
+    <div class="container">
+        <h2 class="banner-heading"><?php echo esc_html__('Cars & Light Commercial', 'drivco') ?></h2>
+        <p class="banner-subheading">
+            <?php echo esc_html__('Search the range of passenger vehicles at SellcarFast, or browse all', 'drivco') ?> <a class="upcomingEvents" href="/auction-vehicle-list"><?php echo esc_html__('View All Auctions', 'drivco') ?></a>
+        </p>
+        <?php echo do_shortcode('[sellcarfast]'); ?>
+    </div>
+</div>
 <div class="news-section grid-view sec-mar">
     <div class="container">
         <div class="row g-lg-4 gy-5">
