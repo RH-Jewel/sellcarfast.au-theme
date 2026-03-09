@@ -73,7 +73,19 @@ function egns_vechiles_filter($query)
         $meta_query_array = array('relation' => 'AND');
 
         // sellcarfast.au filter
-        $custom_keyword ? array_push($meta_query_array, array('key' => 'EGNS_VEHICLE_META_ID', 'value' => $custom_keyword, 'compare' => 'LIKE')) : null;
+        if (!empty($custom_keyword)) {
+            $query->set('s', $custom_keyword);
+        }
+        if (!empty($sale_type)) {
+            if (is_array($sale_type)) {
+                $sale_type = implode(',', $sale_type);
+            }
+            array_push($meta_query_array, array(
+                'key'     => 'EGNS_VEHICLE_META_ID',
+                'value'   => $sale_type,
+                'compare' => 'LIKE'
+            ));
+        }
 
         // main filter 
         $vehicle_condition_info_value ? array_push($meta_query_array, array('key' => 'EGNS_VEHICLE_META_ID', 'value' => $vehicle_condition_info_value, 'compare' => 'LIKE')) : null;
@@ -110,9 +122,6 @@ function egns_vechiles_filter($query)
         // if (!empty($vehicle_location)) {
         //     $vehicle_location ? array_push($tax_query_array, array('taxonomy' => 'location', 'field' => 'name', 'terms' => $vehicle_location)) : null;
         // }
-        if (!empty($sale_type)) {
-            $sale_type ? array_push($tax_query_array, array('taxonomy' => 'sale-type', 'field' => 'name', 'terms' => $sale_type)) : null;
-        }
 
         // main filter 
         if (!empty($locations)) {
