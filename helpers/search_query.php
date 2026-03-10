@@ -76,15 +76,16 @@ function egns_vechiles_filter($query)
         if (!empty($custom_keyword)) {
             $query->set('s', $custom_keyword);
         }
-        if (!empty($sale_type)) {
-            if (is_array($sale_type)) {
-                $sale_type = implode(',', $sale_type);
+        if (!empty($sale_type) && is_array($sale_type)) {
+            $sale_meta_array = array('relation' => 'OR');
+            foreach ($sale_type as $type) {
+                $sale_meta_array[] = array(
+                    'key' => 'EGNS_VEHICLE_META_ID',
+                    'value' => $type,
+                    'compare' => 'LIKE'
+                );
             }
-            array_push($meta_query_array, array(
-                'key'     => 'EGNS_VEHICLE_META_ID',
-                'value'   => $sale_type,
-                'compare' => 'LIKE'
-            ));
+            $meta_query_array[] = $sale_meta_array;
         }
 
         // main filter 
@@ -108,7 +109,7 @@ function egns_vechiles_filter($query)
             $vehicle_tab ? array_push($tax_query_array, array('taxonomy' => 'vehicle-tab', 'field' => 'name', 'terms' => $vehicle_tab)) : null;
         }
         if (!empty($vehicle_make)) {
-            $vehicle_make ? array_push($tax_query_array, array('taxonomy' => 'vehicle-make', 'field' => 'name', 'terms' => $vehicle_make)) : null;
+            $vehicle_make ? array_push($tax_query_array, array('taxonomy' => 'vehicle-make', 'field' => 'slug', 'terms' => $vehicle_make)) : null;
         }
         // if (!empty($vehicle_model)) {
         //     $vehicle_model ? array_push($tax_query_array, array('taxonomy' => 'vehicle-model', 'field' => 'name', 'terms' => $vehicle_model)) : null;
@@ -125,7 +126,7 @@ function egns_vechiles_filter($query)
 
         // main filter 
         if (!empty($locations)) {
-            $locations ? array_push($tax_query_array, array('taxonomy' => 'location', 'field' => 'name', 'terms' => $locations)) : null;
+            $locations ? array_push($tax_query_array, array('taxonomy' => 'location', 'field' => 'slug', 'terms' => $locations)) : null;
         }
         if (!empty($vehicle_brand)) {
             $vehicle_brand ? array_push($tax_query_array, array('taxonomy' => 'vehicle-brand', 'field' => 'name', 'terms' => $vehicle_brand)) : null;
